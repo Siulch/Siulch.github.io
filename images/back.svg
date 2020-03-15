@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="14" cy="14" r="14" transform="translate(115 32)" fill="#023246" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-115 -32)" clip-path="url(#clip-path)">
+    <g id="hacia-atras" transform="translate(115 32)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_6" data-name="Path 6" d="M27.9,22.675a21.164,21.164,0,0,0-.767-3.916,15.674,15.674,0,0,0-14.3-11.17V2.918a1.167,1.167,0,0,0-1.991-.825l-10.5,10.5a1.167,1.167,0,0,0,0,1.65l10.5,10.5a1.167,1.167,0,0,0,1.991-.825v-6a11.983,11.983,0,0,1,8.6,2.644,17.929,17.929,0,0,1,4.393,5.118,1.167,1.167,0,0,0,2.169-.6c0-.052,0-.052,0-.149A19.384,19.384,0,0,0,27.9,22.675ZM22.86,18.713a14.2,14.2,0,0,0-10.782-3.055,6.975,6.975,0,0,0-.7.127,1.167,1.167,0,0,0-.881,1.131V21.1L2.816,13.417,10.5,5.734V8.751a1.167,1.167,0,0,0,1.207,1.166l.182,0A13.333,13.333,0,0,1,24.9,19.423q.232.784.39,1.558A17.994,17.994,0,0,0,22.86,18.713Z" fill="#023246"/>
+      </g>
+    </g>
+  </g>
+</svg>
