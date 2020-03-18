@@ -125,20 +125,30 @@ body {
 
 .portfolio_box {
     background-color: #F0F0F0;
+    height          : 350px;
     border-radius   : 5px;
     box-shadow      : 10px 10px 10px rgba(0, 0, 0, .16);
 }
 
 .portfolio_box a {
     text-decoration: none;
+    width          : 100%;
+    height         : 100%;
+}
+
+.portfolio_box figure {
+    height : 70%;
+    padding: 2%;
 }
 
 .portfolio_box img {
-    width: 100%;
-    height: 78%;
+    width : 100%;
+    height: 100%;
 }
 
+
 .portfolio_box div {
+    height : 30%;
     padding: 2%;
 }
 
@@ -516,7 +526,7 @@ body {
         margin-right: 15px;
     }
 
-    .footer_contact div span{
+    .footer_contact div span {
         font-size: 18px;
     }
 }
